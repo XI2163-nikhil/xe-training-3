@@ -25,4 +25,4 @@ to build Angular components, services, pipes, directives and more.
 
 1. Run `npm install --prefix ./`
 
-1. Run `ng serve -o`
+1. Run `ng build --prod`
