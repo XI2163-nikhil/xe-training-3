@@ -23,6 +23,6 @@ to build Angular components, services, pipes, directives and more.
 
     `npm install --prefix ./ -g @angular/cli`
 
-1. Run `npm install --prefix ./`
+2. Run `npm install --prefix ./`
 
-1. Run `ng build --prod`
+3. Run `ng build --prod`
